@@ -1,0 +1,10 @@
+.button {
+  background-color: tomato;
+  padding: 16pw 32px;
+  border: none;
+  border-radius: 4px;
+}
+
+.button:hover {
+  background-colr: lightblue;
+}

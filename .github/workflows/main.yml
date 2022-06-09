@@ -12,3 +12,5 @@ jobs:
           node-version: 16
       - run: npm ci
       - run: npm run editorconfig
+      - run: npm run stylelint
+
