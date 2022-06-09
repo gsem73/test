@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "editorconfig": "editorconfig-checker"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsem73/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsem73/test/issues"
+  },
+  "homepage": "https://github.com/gsem73/test#readme",
+  "devDependencies": {
+    "editorconfig-checker": "^4.0.2"
+  }
+}
